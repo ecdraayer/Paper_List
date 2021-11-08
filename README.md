@@ -30,22 +30,16 @@ This repository maintains a list of papers and materials Erick uses in his resea
 
 #### [Inter-dependency Discovery in MTS](#content)
 
-1. **Real-Time Anomaly Detection for Streaming Analytics.** arXiv 2016. [paper](https://arxiv.org/pdf/1607.02480.pdf)
-    *Subutai Ahmad, Scott Purdy.*
+1. **seq2graph: Discovering Dynamic Non-linear Dependencies from Multivariate Time Series.** 2019 IEEE International Conference on Big Data (Big Data). [paper](https://researcher.watson.ibm.com/researcher/files/us-pzerfos/IEEE-BigData2019-seq2graph-Dynamic_Dependencies_Multivariate_Timeseries.pdf)
+    *Xuan-Hong Dang, Syed Yousaf Shah and Petros Zerfos.*
 
-1. **USAD: UnSupervised Anomaly Detection on Multivariate Time Series.** KDD 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403392)
-    *Julien Audibert , Pietro Michiardi , Frédéric Guyard , Sébastien Marti , Maria A. Zuluaga.*
+1. **Learning Predictive Leading Indicators for Forecasting Time Series Systems with Unknown Clusters of Forecast Tasks.** Proceedings of Machine Learning Research 2017. [paper](http://proceedings.mlr.press/v77/gregorova17a/gregorova17a.pdf)
+    *Magda Gregorov´a , Alexandros Kalousis , St´ephane Marchand-Maillet.*
 
-1. **Detecting Suspicious Pattern Absences in Continuous Time Series.** SIAM 2020. [paper](https://epubs.siam.org/doi/10.1137/1.9781611976236.15)
-    *JVincent Vercruyssen, Wannes Meert and Jesse Davis.*
+1. **Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks.** SIGIR 2018. [paper](https://arxiv.org/pdf/1703.07015.pdf)
+    *Guokun Lai, Yiming Yang, Wei-Cheng Chang, Hanxiao Liu.*
     
-1. **Trajectory Outlier Detection: Algorithms, Taxonomies,
-Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.unit.no/kristiania-xmlui/bitstream/handle/11250/2754894/Belhadi.pdf?sequence=1)
-    *Asma Belhadi , Youcef Djenouri , Jerry Chun-Wei Lin , Alberto Cano.*
+1. **Characterizing Interdependencies of Multiple Time Series.** Springer 2017. [paper](https://link.springer.com/content/pdf/10.1007%2F978-981-10-6436-4.pdf)
+    *Yuzo Hosoya, Kosuke Oya, Taro Takimoto, Ryo Kinoshita.*
 
-1. **An overview on trajectory outlier detection.** Springer 2018. [paper](https://www.researchgate.net/publication/322898173_An_overview_on_trajectory_outlier_detection)
-    *Fanrong Meng.*
-
-1. **Trajectory Outlier Detection: A Partition-and-Detect Framework.** IEEE 2008. [paper](http://hanj.cs.illinois.edu/pdf/icde08_jaegil_lee.pdf)
-    *Jae-Gil Lee, Jiawei Han, Xiaolei Li.*
 
